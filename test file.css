@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.about{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 9px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Hobby{
+    background-color: white;
+
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    .flex container{
+        display: flex;
+        flex -ms-flex-direction: column;
+    }
+}
+#bash{
+    margin: 9px;
+}
+/* this is our nav bar stylings */
+.media{
+display: flex;
+justify-content: space-evenly;
+}
+li{
+    border: solid -1px;
+    list-style: none;
+    border-radius: 5px;
+    background-color: white;
+    padding: 7px;
+}
+header{
+    background-color: black;
+    height: 40%;
+    
+}

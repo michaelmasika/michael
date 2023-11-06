@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(169, 108, 250);
+    float: right;
+    div{
+        p{
+            width: 50 %;
+        }
+    }
+    border-radius: 8px;
+    margin-inline-start: 5px;
+    padding: 8px;
+    height: 60%;
+}
+.picture{
+    background-color: lawngreen;
+}
