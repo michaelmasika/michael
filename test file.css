@@ -9,19 +9,16 @@ body{
     margin: 9px;
     display: flex;
     justify-content: space-between;
-    
 }
 .Hobby{
     background-color: white;
-
     padding: 10px;
     border-radius: 15px;
     margin: 10px;
     .flex container{
         display: flex;
-        flex -ms-flex-direction: column;
+        flex-direction: column;
     }
-}
 #bash{
     margin: 9px;
 }
@@ -40,5 +37,4 @@ li{
 header{
     background-color: black;
     height: 40%;
-    
 }
